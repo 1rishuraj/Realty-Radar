@@ -1,4 +1,4 @@
-# Realty-Radar
+# Realty🏠Radar
 
 Realty-Radar is a real-life data-science web application that uses a machine learning model to predict real estate prices in Bangalore, India. The model considers various factors such as area in square feet, number of BHK, number of bathrooms, and location to provide accurate price predictions.
 
